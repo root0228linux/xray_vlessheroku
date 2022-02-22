@@ -14,7 +14,7 @@ https://github.com/GeekNAUer/vlessheroku
 
 经测试本镜像占用内存资源较低，运行稳定。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/root0228linux/xray_vlessheroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/root0228linux/x)
 
 ## 注意
 
